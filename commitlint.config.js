@@ -15,6 +15,7 @@ module.exports = {
             'generator',
             'doc',
             'lint',
+            'config',
             'branch',
             'global'
         ]],

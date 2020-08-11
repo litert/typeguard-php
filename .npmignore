@@ -6,5 +6,7 @@
 /.npmignore
 /tsconfig.json
 /docs/
+/.eslintignore
 /.eslintrc
 /examples/
+/commitlint.config.js
